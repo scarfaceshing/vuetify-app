@@ -1,0 +1,13 @@
+{
+  "appId": "com.jiotepino.app",
+  "appName": "vuetify-tutorial-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
